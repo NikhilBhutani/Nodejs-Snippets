@@ -1,0 +1,9 @@
+{
+  "name": "Reading File",
+  "version": "0.0.0",
+  "description": "FileIO",
+  "main": "app.js",
+  "author": {
+    "name": "Nikhil Bhutani",
+    "email": ""
+  }
